@@ -1,0 +1,256 @@
+name,ID,tags
+Balu shahi,1,maida flour  yogurt  oil  sugarvegetariansweetwest bengaleast
+Boondi,2,gram flour  ghee  sugarvegetariansweetrajasthanwest
+Gajar ka halwa,3,carrot  milk  sugar  ghee  cashew  raisinsvegetariansweetpunjabnorth
+Ghevar,4,flour  ghee  kewra  milk  clarified butt  sugar  almond  pistachio  saffron  green cardamomvegetariansweetrajasthanwest
+Gulab jamun,5,milk powd  plain flour  baking powd  ghee  milk  sugar  water  rose watervegetariansweetwest bengaleast
+Imarti,6,sugar syrup  lentil flourvegetariansweetwest bengaleast
+Jalebi,7,maida  corn flour  baking soda  vinegar  curd  water  turmer  saffron  cardamomvegetariansweetuttar pradeshnorth
+Kaju katli,8,cashew  ghee  cardamom  sugarvegetariansweet-1-1
+Kalakand,9,milk  cottage chees  sugarvegetariansweetwest bengaleast
+Kheer,10,milk  rice  sugar  dried fruitsvegetariansweet-1-1
+Laddu,11,gram flour  ghee  sugarvegetariansweet-1-1
+Lassi,12,yogurt  milk  nut  sugarvegetariansweetpunjabnorth
+Nankhatai,13,refined flour  besan  ghee  powdered sugar  yoghurt  green cardamomvegetariansweet-1-1
+Petha,14,firm white pumpkin  sugar  kitchen lim  alum powdervegetariansweetuttar pradeshnorth
+Phirni,15,rice  sugar  nutsvegetariansweetodishaeast
+Rabri,16,condensed milk  sugar  spice  nutsvegetariansweetuttar pradeshnorth
+Sheera,17,semolina  ghee  nut  milkvegetariansweetmaharashtrawest
+Singori,18,khoa  coconut  molu leafvegetariansweetuttarakhandnorth
+Sohan halwa,19,corn flour  ghee  dry fruitsvegetariansweetuttar pradeshnorth
+Sohan papdi,20,gram flour  ghee  sugar  milk  cardamomvegetariansweetmaharashtrawest
+Chhena jalebi,21,chhena  sugar  gheevegetariansweetodishaeast
+Chhena kheeri,22,chhena  sugar  milkvegetariansweetodishaeast
+Chhena poda,23,sugar  chenna cheesevegetariansweetodishaeast
+Cham cham,24,flour  cream  sugar  saffron  lemon juic  coconut flakesvegetariansweetwest bengaleast
+Kheer sagar,25,chenna  condensed milk  sugar  saffron  cardamomvegetariansweetodishaeast
+Ledikeni,26,chhena  sugar  gheevegetariansweetwest bengaleast
+Lyangcha,27,flour  fried milk pow  sugar syrupvegetariansweetassamnorth east
+Malapua,28,yoghurt  refined flour  ghee  fennel seedsvegetariansweetbiharnorth
+Mihidana,29,besan flour  sugar  gheevegetariansweetwest bengaleast
+Misti doi,30,milk  jaggeryvegetariansweetwest bengaleast
+Pantua,31,chhena  sugar  ghee  flourvegetariansweetwest bengaleast
+Pithe,32,rice flour  wheat flourvegetariansweetassamnorth east
+Rasabali,33,chenna  sweetened milkvegetariansweetodishaeast
+Ras malai,34,chhena  reduced milk  pistachiovegetariansweetwest bengaleast
+Rasgulla,35,chhena  sugar  cardamomvegetariansweetwest bengaleast
+Sandesh,36,milk  sugar  saffron  cardamomvegetariansweetwest bengaleast
+Adhirasam,37,rice flour  jaggeri  ghee  vegetable oil  elachivegetariansweetwest bengaleast
+Ariselu,38,rice flour  jaggeri  gheevegetariansweetandhra pradeshsouth
+Bandar laddu,39,besan  jaggeri  cardamom powd  ghee  cashews and raisin  jaggery syrup  sugarvegetariansweetandhra pradeshsouth
+Chikki,40,peanut  jaggeryvegetariansweetmaharashtrawest
+Dharwad pedha,41,milk  sugar  dharwadi buffalo milkvegetariansweetkarnatakasouth
+Double ka meetha,42,loaf bread  milkvegetariansweettelanganasouth
+Gavvalu,43,rice flour  sugar  salt  ghee  semolinavegetariansweetandhra pradeshsouth
+Kakinada khaja,44,wheat flour  sugarvegetariansweetandhra pradeshsouth
+Kuzhi paniyaram,45,black lentil  ricevegetariansweetkeralasouth
+Mysore pak,46,besan flour  semolina  mung bean  jaggeri  coconut  skimmed milk powd  sugar  gheevegetariansweetkarnatakasouth
+Obbattu holige,47,maida flour  turmer  coconut  chickpea  jaggeri  ghee  cardamomvegetariansweetkarnatakasouth
+Palathalikalu,48,rice flour  milkvegetariansweetandhra pradeshsouth
+Poornalu,49,chana d  jaggeryvegetariansweetandhra pradeshsouth
+Pongal,50,rice  jaggeri  cashew  gheevegetariansweettamil nadusouth
+Pootharekulu,51,rice flour  powdered sugar  gheevegetariansweetandhra pradeshsouth
+Qubani ka meetha,52,apricot  sugar syrupvegetariansweettelanganasouth
+Sheer korma,53,vermicelli pud  milkvegetariansweettelanganasouth
+Unni Appam,54,rice flour  banana  jaggeri  coconutvegetariansweettamil nadusouth
+Kajjikaya,55,rice flour  jaggeri  coconutvegetariansweetandhra pradeshsouth
+Anarsa,56,rice flour  jaggeri  khus-khus seedsvegetariansweetmaharashtrawest
+Basundi,57,sugar  milk  nutsvegetariansweetgujaratwest
+Dhondas,58,cucumb  ravavegetariansweetmaharashtrawest
+Doodhpak,59,milk  rice  sugar  dry fruitsvegetariansweetgujaratwest
+Mahim halwa,60,semolina  sugarvegetariansweetmaharashtrawest
+Modak,61,rice flour  coconut  jaggery vegetariansweetmaharashtrawest
+Shankarpali,62,sugar  ghee  maida flour  semolinavegetariansweetmaharashtrawest
+Shrikhand,63,curd  sugar  saffron  cardamomvegetariansweetmaharashtrawest
+Sutar feni,64,maida  sugar  gheevegetariansweetmaharashtrawest
+Maach Jhol,65,fish  potol  tomato  chilli  ginger  garlicnon vegetarianspicyassamnorth east
+Pork Bharta,66,boiled pork  onion  chilli  ginger and garlicnon vegetarianspicytripuranorth east
+Chak Hao Kheer,67,rice  milk  sugar  cardamomvegetariansweetmanipurnorth east
+Galho,68,rice  axon  salt  water  chilli  porknon vegetarianspicynagalandnorth east
+Aloo gobi,69,cauliflow  potato  garam masala  turmer  curry leavesvegetarianspicypunjabnorth
+Aloo tikki,70,rice flour  potato  bread crumb  garam masala  saltvegetarianspicypunjabnorth
+Aloo matar,71,potato  pea  chilli  ginger  garam masala  garlicvegetarianspicypunjabnorth
+Aloo methi,72,potato  fenugreek leav  chilli  salt  oilvegetarianbitterpunjabnorth
+Aloo shimla mirch,73,potato  shimla mirch  garam masala  amchur powd  saltvegetarianspicypunjabnorth
+Bhatura,74,chole  rava  yogurt  plain flour  baking sodavegetarianspicypunjabnorth
+Bhindi masala,75,ladies fing  garam masala  kasuri methi  tomato  chili powdervegetarianspicypunjabnorth
+Biryani,76,chicken thigh  basmati ric  star anis  sweet  green chilliesnon vegetarianspicytelanganasouth
+Butter chicken,77,chicken  greek yogurt  cream  garam masala powd  cashew nut  butternon vegetarianspicynct of delhinorth
+Chana masala,78,chickpea  tomato past  garam masala  ginger  red onion  avocado oilvegetarianspicypunjabnorth
+Chapati,79,whole wheat flour  olive oil  hot wat  all purpose flourvegetarian-1maharashtrawest
+Chicken razala,80,chicken  dahi  sesame se  garam masala powd  cashew nut  saffronnon vegetarianspicywest bengaleast
+Chicken Tikka masala,81,naan bread  tomato sauc  skinless chicken breast  heavy cream  garam masalanon vegetarianspicypunjabnorth
+Chicken Tikka,82,chicken  whole wheat bread  rice flour  garam masala powd  whole eggnon vegetarianspicypunjabnorth
+Chole bhature,83,chole  bhatura  garam masala  bay leaf  cinnamon stickvegetarianspicypunjabnorth
+Daal baati churma,84,moong dal  masoor d  chana d  wheat flour  almondvegetarianspicyrajasthanwest
+Daal puri,85,moong dal  garam masala powd  garlic  green chilli  all purpose flourvegetarianspicywest bengaleast
+Dal makhani ,86,red kidney bean  urad d  cream  garam masala  chili powdervegetariansweetpunjabnorth
+Dal tadka,87,pigeon pea  garam masala  ginger  red onion  kasuri methivegetarianspicypunjabnorth
+Dum aloo,88,baby potato  garam masala  cashew nut  kasuri methi  tomatoesvegetarianspicyjammu & kashmirnorth
+Poha,89,beaten rice flak  potato  curry leav  green chili  lemon juicevegetarianspicymaharashtrawest
+Fara,90,chana d  whole wheat flour  arhar d  white urad d  garam masala powdervegetarianspicychhattisgarhcentr
+Kachori,91,moong dal  rava  garam masala  dough  fennel seedsvegetarianspicyuttar pradeshnorth
+Kadai paneer,92,cottage chees  bell pepp  gravi  garam masala  cashew nutsvegetarianspicypunjabnorth
+Kadhi pakoda,93,besan  garam masala powd  gram flour  ginger  curry leavesvegetarianspicyharyananorth
+Karela bharta,94,bitter gourd  fennel  garam masala powd  chili powd  amchur powdervegetarianbitterpunjabnorth
+Khichdi,95,moong dal  green pea  ginger  tomato  green chilivegetarianspicy-1-1
+Kofta,96,paneer  potato  cream  corn flour  garam masalavegetarianspicyuttar pradeshnorth
+Kulfi falooda,97,rose syrup  falooda sev  mixed nut  saffron  sugarvegetariansweet-1-1
+Lauki ke kofte,98,bottle gourd  garam masala powd  gram flour  ginger  chilliesvegetarianspicyuttar pradeshnorth
+Lauki ki subji,99,bottle gourd  coconut oil  garam masala  ginger  green chilliesvegetarianspicy-1-1
+Litti chokha,100,wheat flour  roasted gram flour  tomato  nigella se  chillivegetarianspicybiharnorth
+Makki di roti sarson da saag,101,palak  makki atta  mustard green  garam masala  gingervegetarianspicypunjabnorth
+Misi roti,102,whole wheat flour  chickpea flour  green chiliesvegetarianspicypunjabnorth
+Mushroom do pyaza,103,mushroom  malai  garam masala  ginger  capsicumvegetarianspicypunjabnorth
+Mushroom matar,104,canned coconut milk  frozen green pea  wild mushroom  garam masala  tomatoesvegetarianspicypunjabnorth
+Naan,105,whole wheat flour  honey  butter  garlicvegetarian-1punjabnorth
+Navrattan korma,106,green bean  potato  khus khu  low fat  garam masala powdervegetarianspicyuttar pradeshnorth
+Palak paneer,107,cottage chees  palak  cream  garam masala  buttervegetarianspicypunjabnorth
+Paneer butter masala,108,paneer  whipping cream  garam masala  cashew nut  buttervegetarianspicypunjabnorth
+Paneer tikka masala,109,paneer  greek yogurt  tandoori masala  cream  bell peppervegetarianspicypunjabnorth
+Pani puri,110,kala chana  mashed potato  boondi  sev  lemonvegetarianspicy-1-1
+Panjeeri,111,nan
+Papad,112,urad d  sev  lemon juic  chopped tomatoesvegetarianspicy-1-1
+Paratha,113,wheat flour  butter  potato  coriandervegetarianspicypunjabnorth
+Pattor,114,arbi ke patt  sesame se  gur  bengal gram flour  imlivegetarianspicyrajasthanwest
+Pindi chana,115,fennel  tea bag  tomato  kasuri methi  cinnamonvegetarianspicypunjabnorth
+Rajma chaval,116,red kidney bean  garam masala powd  ginger  tomato  mustard oilvegetarianspicy-1north
+Rongi,117,garam masala powd  tomato  kasuri methi  cinnamon  mustard oilvegetarian-1punjabnorth
+Samosa,118,potato  green pea  garam masala  ginger  doughvegetarianspicy-1-1
+Sattu ki roti,119,sattu  atta  dough  fill  mustard oilvegetarianspicybiharnorth
+Shahi paneer,120,cottage chees  malai  garam masala  ginger  tomatovegetarianspicypunjabnorth
+Shahi tukra,121,rose wat  milk  white bread slic  saffron  almondsvegetariansweettelanganasouth
+Vegetable jalfrezi,122,baby corn  french bean  garam masala  ginger  carrotvegetarianspicypunjabnorth
+Tandoori Chicken,123,greek yogurt  garam masala  kasuri methi  marinad  mustard oilnon vegetarianspicypunjabnorth
+Tandoori Fish Tikka,124,chickpea flour  biryani masala powd  yogurt  fish fillet  green bell peppernon vegetarianspicypunjabnorth
+Attu,125,whole wheat flour  arhar d  ginger  kala jeera  green chillivegetarianspicyandhra pradeshsouth
+Avial,126,raw banana  elephant foot yam  long bean  tindora  urad dalvegetarianspicykeralasouth
+Bisi bele bath,127,split pigeon pea  chana d  urad d  green pea  french beansvegetarianspicykarnatakasouth
+Currivepillai sadam ,128,chana d  urad d  fresh coconut  sesame se  curry leavesvegetarianspicytamil nadusouth
+Dosa,129,chana d  urad d  whole urad d  blend ric  rock saltvegetarianspicy-1south
+Idiappam,130,rice flour  hot wat  grated coconutvegetarianspicytamil nadusouth
+Idli,131,split urad d  urad d  idli ric  thick poha  rock saltvegetarianspicy-1south
+Kanji,132,carrot  yellow mustard  red chilli  black saltvegetarian-1keralasouth
+Kaara kozhambu,133,sesame oil  drumstick  tamarind past  sambar powd  tomatovegetarianspicytamil nadusouth
+Keerai kootu,134,moong dal  chana d  spinach  urad d  coconut oilvegetarianspicytamil nadusouth
+Keerai masiyal,135,urad d  curry leav  sugar  mustard se  spinachvegetarianspicytamil nadusouth
+Keerai sadam,136,green  tomato  mustard se  fenugreek seedsvegetarianspicytamil nadusouth
+Keerai poriyal,137,amaranth leav  split urad d  mustard se  grated coconut  red chilivegetarianspicytamil nadusouth
+Beef Fry,138,beef  coconut  garam masala  curry leav  green chili  chili powdernon vegetarianspicykeralasouth
+Kootu,139,chana d  urad d  potato  bean  peasvegetarianspicytamil nadusouth
+Kos kootu,140,moong dal  chana d  cabbag  tamarind  curry leavesvegetarianspicytamil nadusouth
+Koshambri,141,moong dal  cucumb  curry leav  green chili  lemon juicevegetarianspicykarnatakasouth
+Kothamali sadam,142,chana d  urad d  gooseberri  raw ric  curry leavesvegetarianspicytamil nadusouth
+Kuzhakkattai,143,sesame oil  raw ric  jaggeri  grated coconutvegetarianspicytamil nadusouth
+Kuzhambu,144,pearl onion  urad d  drumstick  tomato  curry leavesvegetarianspicytamil nadusouth
+Masala Dosa,145,chana d  urad d  potato  idli ric  thick pohavegetarianspicy-1south
+Pachadi,146,coconut oil  cucumb  curd  curry leav  mustard seedsvegetarian-1-1south
+Paniyaram,147,yogurt  ginger  curry leav  baking soda  green chillivegetarian-1tamil nadusouth
+Papadum,148,lentil  black pepp  vegetable oilvegetarianspicykeralasouth
+Paravannam,149,raw ric   jaggeri  milkvegetarianspicykeralasouth
+Payasam,150,rice  cashew nut  milk  raisin  sugarvegetariansweet-1south
+Paruppu sadam,151,arhar d  sambar powd  tomato  curry leav  fennel seedsvegetarian-1tamil nadusouth
+Pesarattu,152,green moong bean  rice flourvegetarianspicyandhra pradeshsouth
+Poriyal,153,chana d  urad d  bean  coconut  mustardvegetarianspicytamil nadusouth
+Puli sadam,154,urad d  lemon  tamarind  cooked ric  curry leavesvegetarian-1tamil nadusouth
+Rasam,155,tomato  curry leav  garlic  mustard se  hot watervegetarianspicy-1south
+Puttu,156,brown rice flour  sugar  grated coconutvegetarian-1keralasouth
+Sambar,157,pigeon pea  eggplant  drumstick  sambar powd  tamarindvegetarianspicy-1south
+Sandige,158,thin rice flak  black sesame se  curry leavesvegetarian-1karnatakasouth
+Sevai,159,sevai  parboiled ric  steamervegetarian-1-1south
+Thayir sadam,160,urad d  curd  sesame oil  ginger  curry leav  mustard seedsvegetarian-1tamil nadusouth
+Theeyal,161,coconut  whole red bean  masala  sesame oil  tamarindvegetarian-1keralasouth
+Uttapam,162,chana d  urad d  thick poha  tomato  buttervegetarianspicy-1south
+Vada,163,urad d  ginger  curry leav  green chili  black peppervegetarianspicy-1south
+Chicken Varuval,164,meat curry powd  chicken chunk  ginger  tomato  cinnamonnon vegetarianspicytamil nadusouth
+Upma,165,chana d  urad d  ginger  curry leav  sugarvegetarianspicy-1-1
+Amti,166,kala masala  arhar d  curry leav  mustard se  hot watervegetarianspicymaharashtrawest
+Zunka,167,gram flour  mustard  garlic  turmer  red chillivegetarianspicymaharashtrawest
+Kolim Jawla,168,baingan  fish  coconut oil  fresh coconut  gingernon vegetarianspicymaharashtrawest
+Saath,169,urad d  potato  wheat flour  soojivegetarianspicygujaratwest
+Bajri no rotlo,170,wheat flour  pearl millet flour  hot watervegetarianspicygujaratwest
+Coconut vadi,171,condensed milk  mawa  desiccated coconut  almond  cashewsvegetariansweetmaharashtrawest
+Bhakri,172,jowar flour  sesame seedsvegetarian-1maharashtrawest
+Bombil fry,173,bombay duck  malvani masala  rice flour  bombay rava  green chiliesnon vegetarianspicymaharashtrawest
+Chakali,174,rice flour  sesam  plain flour  turmer  red chillivegetarianspicymaharashtrawest
+Chevdo,175,citric acid  fri  raisin  sugar  chana daalvegetarianspicygujaratwest
+Chorafali,176,urad d  bengal gram flour  dried mango  baking soda  black saltvegetarianspicygujaratwest
+Copra paak,177,condensed milk  nestle cream  coconut ic  red food color  desiccated coconutvegetarian-1gujaratwest
+Daal Dhokli,178,whole wheat flour  dal  kokum  gur  bengal gram flourvegetarianspicygujaratwest
+Kutchi dabeli,179,pav  aloo  peanut  pomegran  star anisevegetarianspicygujaratwest
+Dahi vada,180,urad d  bhuna chana  garam masala  date  tamarindvegetarian-1maharashtrawest
+Dalithoy,181,arhar d  coconut oil  curry leav  mustard se  red chillivegetarian-1maharashtrawest
+Dhokla,182,rava  coconut  gram flour  mustard  sesamevegetarianspicygujaratwest
+Dudhi halwa,183,bottle gourd  green  raisin  sugar  clarified buttervegetariansweetgujaratwest
+Gatta curry,184,yogurt  besan  sauc  garam masala powd  gram flourvegetarianspicyrajasthanwest
+Gud papdi,185,wheat flour  jaggeri  clarified butt  sliced almondsvegetariansweetgujaratwest
+Ghooghra,186,dry fruit  semolina  all purpose flourvegetarianspicygujaratwest
+Handwo,187,bottle gourd  chana d  cabbag  urad d  toor dalvegetarianspicygujaratwest
+Halvasan,188,whole wheat rava  chia se  lemon  edible gum  litre milkvegetariansweetgujaratwest
+Jeera Aloo,189,green chili  lemon juic  chili powd  boiled potatoesvegetarianspicygujaratwest
+Kansar,190,wheat flour  cashew  rapeseed oilvegetarian-1gujaratwest
+Keri no ras,191,mango  sugarvegetariansourgujaratwest
+Khakhra,192,whole wheat flour  low fat  bengal gram flourvegetarianspicygujaratwest
+Khandvi,193,green chili past  white sesame se  gram flour  curry leav  green chilivegetarianspicygujaratwest
+Kombdi vade,194,rice flour  urad d  wheat flour  gram flour  turmericvegetarianspicymaharashtrawest
+Laapsi,195,cinnamon  jaggeri  clarified butt  dry roastedvegetarianspicymadhya pradeshcentr
+Koshimbir,196,cucumb  carrot  tomato  cilantrovegetarianspicymaharashtrawest
+Methi na Gota,197,rava  gram flour  lemon juic  turmer  fenugreek leavesvegetarianbittergujaratwest
+Mohanthal,198,rose wat  pistachio  badam  bengal gram flour  saffronvegetariansweetgujaratwest
+Muthiya,199,bottle gourd  whole wheat flour  rava  sesame se  bengal gram flourvegetarianbittergujaratwest
+Patra,200,arbi ke patt  sesame se  gur  bengal gram flour  imlivegetarianspicygujaratwest
+Pav Bhaji,201,pav bhaji masala  gobi  potato  green pea  dinner rollsvegetarianspicymaharashtrawest
+Puri Bhaji,202,aloo  urad d  mustard  ginger  curry leavesvegetarianspicymaharashtrawest
+Sabudana Khichadi,203,raw peanut  sabudana  lemon  avocado oil  curry leav  green chilivegetarianspicymaharashtrawest
+Sev khamani,204,khaman  pomegran  sev  powdered sugar  garlicvegetarianspicygujaratwest
+Sev tameta,205,sev  ginger  tomato  sugarvegetarianspicygujaratwest
+Namakpara,206,wheat flour  baking soda  all purpose flour  black pepp  sunflower oilvegetarianspicygujaratwest
+Sukhdi,207,whole wheat flour  gur  clarified buttervegetariansweetmaharashtrawest
+Surnoli,208,rice flak  yogurt  raw ric  jaggeri  grated coconutvegetarianspicymaharashtrawest
+Thalipeeth,209,whole wheat flour  rice flour  pearl millet flour  sorghum flour  sesame seedsvegetarianspicymaharashtrawest
+Undhiyu,210,sweet potato  surti papdi  baby potato  valor papdi  green peasvegetarianspicygujaratwest
+Veg Kolhapuri,211,gobi  potato  bean  khus khu  coconutvegetarianspicymaharashtrawest
+Vindaloo,212,chicken  coconut oil  wine vinegar  ginger  green  cinnamonnon vegetarianspicygoawest
+Lilva Kachori,213,green garlic chutney  fresh green pea  ginger  lemon juic  plain flourvegetarianspicygujaratwest
+Mag Dhokli,214,moong bean  jaggeri  red chilli  oil  saltvegetarianspicygujaratwest
+Khichu,215,rice flour  sesame se  baking soda  peanut oilvegetarianspicygujaratwest
+Thepla,216,chickpea flour  methi leav  jowar flour  wheat flourvegetarianspicygujaratwest
+Farsi Puri,217,semolina  clarified butt  oil  white flour  black peppervegetarian-1gujaratwest
+Khaman,218,yogurt  fresh coconut  sesame se  semolina  gram flourvegetarianspicygujaratwest
+Turiya Patra Vatana sabji,219,ridge gourd  baking soda  sugar  grated coconut  peasvegetarianspicygujaratwest
+Churma Ladoo,220,whole wheat flour  khus khu  sesame se  dry coconut  gurvegetariansweetrajasthanwest
+Cheera Doi,221,rice  mango  curdvegetariansweetwest bengaleast
+Gheela Pitha,222,sticky ric  rice flour  jaggeri  orange rindvegetariansweetassamnorth east
+Khar,223,raw papaya  panch phoran masala  nigella se  mustard oil  fennel seedsvegetarian-1assamnorth east
+Kumol Sawul,224,rice  egg  carrot  beetrootnon vegetarianspicyassamnorth east
+Luchi,225,maida  vegetable oilvegetarian-1west bengaleast
+Alu Pitika,226,potato  mustard oil  fish  green chilliesnon vegetarianspicyassamnorth east
+Masor tenga,227,ridge gourd  fish  lemon  tomato  mustard oilnon vegetarianspicyassamnorth east
+Bengena Pitika,228,brinjal  onion  salt  sesame se  coriandervegetarian-1assamnorth east
+Bilahi Maas,229,potato  garam masala  tomato  mustard oil  bay leafnon vegetarian-1assamnorth east
+Black rice,230,forbidden black ric  chicken  olive oil  slivered almond  garlic powdernon vegetarian-1manipurnorth east
+Bora Sawul,231,biryani masala  mixed veget  yellow moong da  whole r  mustard seedsvegetarianspicyassamnorth east
+Brown Rice,232,brown ric  soy sauc  olive oilvegetarian-1-1-1
+Chingri malai curry,233,coconut milk  lobster  fresh green chilli  ginger  red onionnon vegetarianspicywest bengaleast
+Goja,234,baking soda  clarified butt  oil  all purpose flourvegetariansweetwest bengaleast
+Hando Guri,235,jaggeri  raisinsvegetariansweetassamnorth east
+Haq Maas,236,lamb  garam masala powd  curd  turmer  bay leafnon vegetarianspicyassamnorth east
+Chingri Bhape,237,coconut  prawn  curd  mustard se  green chilinon vegetarian-1west bengaleast
+Kabiraji,238,fish fillet  besan  lemon  mint  gingernon vegetarianspicywest bengaleast
+Khorisa,239,fermented bamboo shoot  potato  ginger  green  mustard oilvegetarianspicyassamnorth east
+Koldil Chicken,240,banana flow  chicken  green chili  mustard oil  lemon juicenon vegetarianspicyassamnorth east
+Konir Dom,241,aloo  tomato  mustard oil  bay leaf  cinnamon sticknon vegetarianspicyassamnorth east
+Koldil Duck,242,rice flour  mutton  banana  gram flour  olive oil  baking powdernon vegetarianspicyassamnorth east
+Masor Koni,243,fish ro  pumpkin flow  mustard oil  turmer  tomatonon vegetarianspicyassamnorth east
+Mishti Chholar Dal,244,chana d  fresh coconut  ginger  cinnamon  raisinsvegetariansweetwest bengaleast
+Pakhala,245,curd  cooked ric  curry leav  dry chillivegetarian-1odishaeast
+Pani Pitha,246,tea leav  white sesame se  dry coconut  soaked ricevegetarian-1assamnorth east
+Payokh,247,basmati ric  rose wat  sugar  clarified butt  cardamom podsvegetariansweetassamnorth east
+Prawn malai curry,248,coconut milk  prawn  garlic  turmer  sugarnon vegetarianspicywest bengaleast
+Red Rice,249,red pepp  red onion  butter  watercress  olive oilvegetarian-1-1-1
+Shukto,250,green bean  bitter gourd  ridge gourd  banana  brinjalvegetarianspicywest bengaleast
+Til Pitha,251,glutinous ric  black sesame se  gurvegetariansweetassamnorth east
+Bebinca,252,coconut milk  egg yolk  clarified butt  all purpose flourvegetariansweetgoawest
+Shufta,253,cottage chees  dry dat  dried rose pet  pistachio  badamvegetariansweetjammu & kashmirnorth
+Mawa Bati,254,milk powd  dry fruit  arrowroot powd  all purpose flourvegetariansweetmadhya pradeshcentr
+Pinaca,255,brown ric  fennel se  grated coconut  black pepp  ginger powdervegetariansweetgoawest
