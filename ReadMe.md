@@ -3,6 +3,7 @@
 
 Intuition: In India people are living in different regions, so providing a platform to get their favorite sweets 
 – A content-based Recommender system on Indian Sweets, Classifying on the basis of regions and ingredients
+- It will recommend sweets related or mostly purchased with the sweet you search for
 
 
 ## Deployment
