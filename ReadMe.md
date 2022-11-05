@@ -1,5 +1,5 @@
 
-# Sweet Recomedation Systemc
+# Sweet Recomedation System
 
 Intuition: In India people are living in different regions, so providing a platform to get their favorite sweets 
 – A content-based Recommender system on Indian Sweets, Classifying on the basis of regions and ingredients
