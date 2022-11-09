@@ -8,10 +8,10 @@ Intuition: In India people are living in different regions, so providing a platf
 
 ## Deployment
 
-To deploy this project run
+To deploy this project on local sever run
 
 ```bash
-  download the repositories and run main.py this will depoy the project on local server
+  download the repositories and run main.py this will deploy the project on local server
   
 ```
 
