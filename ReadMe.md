@@ -23,3 +23,7 @@ To deploy this project on local sever run
 ## Image
 ![Document and 3 more pages - Personal - Microsoft​ Edge 18-11-2022 12_17_34 (3)](https://user-images.githubusercontent.com/96625003/202639237-f3c32286-054d-46ff-9884-f3e172c9cf1f.png)
 
+
+![Web capture_18-11-2022_12214_localhost](https://user-images.githubusercontent.com/96625003/202639576-0a95d27b-3740-4f95-9da1-171078bf75d9.jpeg)
+
+
