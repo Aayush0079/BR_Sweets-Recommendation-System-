@@ -28,6 +28,5 @@ To deploy this project on local sever run
 
 
 
-![image](https://user-images.githubusercontent.com/96625003/202639811-37f96fbd-969e-4f88-82f9-507831fcc902.png)
-
+![image](https://user-images.githubusercontent.com/96625003/202640292-cc1375c6-7ec4-49a7-9865-0d6bb76b7395.png)
 
