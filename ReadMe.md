@@ -27,3 +27,7 @@ To deploy this project on local sever run
 ![Web capture_18-11-2022_12214_localhost](https://user-images.githubusercontent.com/96625003/202639576-0a95d27b-3740-4f95-9da1-171078bf75d9.jpeg)
 
 
+
+![image](https://user-images.githubusercontent.com/96625003/202639811-37f96fbd-969e-4f88-82f9-507831fcc902.png)
+
+
