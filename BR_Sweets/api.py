@@ -1626,7 +1626,7 @@ courses =[
       ]
 @app.route('/')
 def index():
-    return "ayish"
+    return "hello, this is our first flask website"
 
 @app.route("/courses", methods = ['GET'])
 def get():

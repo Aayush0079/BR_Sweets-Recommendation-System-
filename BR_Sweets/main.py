@@ -33,7 +33,7 @@ def rec():
     user_input = request.form.get('user_input')
     sweet_index = sweets[sweets['name'] == user_input].index[0]
     distances = similarity[sweet_index]
-    sweet_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:6]
+    sweet_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[0:6]
     print(sweet_list)
     re =[]
     for j in sweet_list:
